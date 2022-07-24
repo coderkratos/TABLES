@@ -1,0 +1,18 @@
+p{
+    color: aqua;
+}
+table{
+    background-color: aquamarine;
+}
+.float-box{
+    height: 200px;
+    background-color: yellow;
+
+}
+.item{
+    width: 100px;
+    height: 100px;
+    background: grey;
+    float: left;
+
+}
